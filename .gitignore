@@ -5,7 +5,7 @@ lib
 include
 
 #Idea
-.idea
+.idea/
 
 # Mac OS X custom attribute files
 .DS_Store
