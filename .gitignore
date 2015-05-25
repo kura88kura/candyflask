@@ -4,5 +4,8 @@ bin
 lib
 include
 
+#Idea
+.idea
+
 # Mac OS X custom attribute files
 .DS_Store
